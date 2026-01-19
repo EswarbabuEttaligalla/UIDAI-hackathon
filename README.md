@@ -146,6 +146,9 @@ INFO:     Application startup complete.
 # Open a NEW terminal window
 cd c:\Users\eeswa\eswar\python\uidai\frontend
 
+# Install dependencies (first time only)
+npm install
+
 # Start development server
 npm start
 ```
@@ -733,5 +736,6 @@ Developed for UIDAI Hackathon 2024 - Demonstration purposes
   <em>Protecting 1.3 Billion Digital Identities Through AI-Powered Behavioral Intelligence</em><br><br>
   Built for UIDAI Hackathon 2026
 </p>
-#   U I D A I - h a c k a t h o n  
+#   U I D A I - h a c k a t h o n 
+ 
  
